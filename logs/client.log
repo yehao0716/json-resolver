@@ -1,0 +1,6 @@
+[2017-08-31 14:19:35,897] INFO inpath:G:/yehao/00.test_data/1503892722 (com.JsonResolver)
+[2017-08-31 14:19:35,898] INFO outpath:G:/yehao/00.test_data/data2 (com.JsonResolver)
+[2017-08-31 14:19:35,899] INFO type:rtmp_publish (com.JsonResolver)
+[2017-08-31 14:20:06,992] INFO inpath:G:/yehao/00.test_data/1503892722 (com.JsonResolver)
+[2017-08-31 14:20:06,992] INFO outpath:G:/yehao/00.test_data/data2 (com.JsonResolver)
+[2017-08-31 14:20:06,992] INFO type:request_relay (com.JsonResolver)
